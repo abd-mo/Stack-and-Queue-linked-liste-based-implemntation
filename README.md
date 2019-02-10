@@ -16,6 +16,7 @@ As we see in the picture above our program has a two main functions, in the foll
 **Analysis:**
 
 - We want to Sort a stack (A) using a temporary stack (B), with take into consideration the Stack Structure’s will be “linked list based implantation”.
+
 -we will ask the user to enter a 15 integer numbers then after every entering the program will show the state of every stack during the sorting operation
 
 **Design and programmer level:**
