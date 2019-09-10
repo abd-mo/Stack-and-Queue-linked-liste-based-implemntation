@@ -15,7 +15,7 @@ As we see in the picture above our program has a two main functions, in the foll
 --------------------------------------------------
 **Analysis:**
 
-- We want to Sort a stack (A) using a temporary stack (B), with take into consideration the Stack Structure’s will be “linked list based implantation”.
+- We want to Sort a stack (A) using a temporary stack (B), with take into consideration the Stack Structure’s will be “linked list based implemntation”.
 
 -we will ask the user to enter a 15 integer numbers then after every entering the program will show the state of every stack during the sorting operation
 
@@ -33,7 +33,7 @@ As we see in the picture above our program has a two main functions, in the foll
 
 ![4](https://user-images.githubusercontent.com/32440404/52536041-bea66200-2d66-11e9-8e55-7610ec36fcf4.jpg)
 
-In the picture above we create a “”for loop” that has a 15 iteration, inside it there is 
+In the picture above we created a “”for loop” that has a 15 iteration, inside it there is 
 An “infinity loop”, have a three cases:
 
 1- If the stack (A) was empty, then push the number into stack (A), then display the two stacks then break the “infinity loop”.
@@ -59,7 +59,7 @@ during the sorting process.
 -------------------------------------------------------------
 **Analysis:**
 
--We want to simulate the circle Queue through hot potato game, with also taking into consideration the Queue Structure’s will be “Linked list based implantation”.
+-We want to simulate the circle Queue through hot potato game, with also taking into consideration the Queue Structure’s will be “Linked list based implemntation”.
 
 -In this game, children line up in a circle, music starts playing (10-25 sec will be taken randomly) and pass the potato from child to another after a random period (1-3 sec).
 
@@ -122,7 +122,7 @@ Here the game GUI , showing the time that the music is playing , the player who 
 
 ![26](https://user-images.githubusercontent.com/32440404/52536262-278ed980-2d69-11e9-8cac-9cce1492944c.jpg)
 
-Here showing the winner player and asking the user if he want play again or go back home page:
+Here showing the winner player and asking the user if he wants to play again or go back home page:
 
 ![27](https://user-images.githubusercontent.com/32440404/52536263-2a89ca00-2d69-11e9-9d20-34f10b1e1c1d.jpg)
 
