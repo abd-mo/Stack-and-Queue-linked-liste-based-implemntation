@@ -9,7 +9,7 @@
 ![1](https://user-images.githubusercontent.com/32440404/52535821-10012200-2d64-11e9-9219-3210427e0398.jpg)
 
 
-As we see in the picture above our program has a two main functions, in the following lines we will try to illustrate the implantation level of each function.
+As we see in the picture above our program has a two main functions, in the following lines we will try to illustrate the implemntation level of each function.
 
 1-Frist function which has (Sort Stack): 
 --------------------------------------------------
@@ -34,7 +34,7 @@ As we see in the picture above our program has a two main functions, in the foll
 ![4](https://user-images.githubusercontent.com/32440404/52536041-bea66200-2d66-11e9-8e55-7610ec36fcf4.jpg)
 
 In the picture above we create a “”for loop” that has a 15 iteration, inside it there is 
-An “infinity loop”, inside it there are a three cases:
+An “infinity loop”, have a three cases:
 
 1- If the stack (A) was empty, then push the number into stack (A), then display the two stacks then break the “infinity loop”.
 
